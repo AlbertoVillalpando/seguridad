@@ -4,112 +4,112 @@
     "type": "split",
     "children": [
       {
-        "id": "6f2fbd5d921cf408",
+        "id": "292aa6528a1d0f8a",
         "type": "tabs",
         "children": [
           {
-            "id": "4bd99414a7d5543c",
+            "id": "e64d1a154901dd5a",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "retos-bandit/Level 21 -> 22.md",
+                "file": "picoCTF/dont-use-client-side.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "8702b2e4eb822531",
+            "id": "32e7fd64e658e6df",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "retos-bandit/Level 21 -> 22.md",
+                "file": "picoCTF/picobrowser.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "f07366dde637df7b",
+            "id": "97d861ad0418f924",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "retos-bandit/Level 22 -> 23.md",
+                "file": "picoCTF/Client-side-again.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "5655a2d47b4e6dce",
+            "id": "dbcd032d114d3649",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "retos-bandit/Level 23 -> 24.md",
+                "file": "picoCTF/dont-use-client-side.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "7467fd7b1216a363",
+            "id": "9138ea9ab05c29fd",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "retos-bandit/Level 24 -> 25.md",
+                "file": "picoCTF/Client-side-again.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "14b567eb81a4b90a",
+            "id": "dff289bbae6bb0c6",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "retos-bandit/Level 25 -> 26.md",
+                "file": "picoCTF/logon.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "5f71fdebcd925109",
+            "id": "3f77c11b9261721d",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "retos-bandit/Level 26 -> 27.md",
+                "file": "picoCTF/logon.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "f04660ff66ace24d",
+            "id": "2a4294433372f899",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "retos-bandit/Level 26 -> 27.md",
+                "file": "picoCTF/picobrowser.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "d0f0ad2866598369",
+            "id": "f37149e4a8936501",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "retos-bandit/Level 27 -> 28.md",
+                "file": "picoCTF/Client-side-again.md",
                 "mode": "source",
                 "source": false
               }
@@ -182,7 +182,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "retos-bandit/Level 27 -> 28.md",
+                "file": "picoCTF/Client-side-again.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -199,7 +199,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "retos-bandit/Level 27 -> 28.md",
+                "file": "picoCTF/Client-side-again.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -222,7 +222,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "retos-bandit/Level 27 -> 28.md"
+                "file": "picoCTF/Client-side-again.md"
               }
             }
           }
@@ -243,13 +243,21 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "d0f0ad2866598369",
+  "active": "f37149e4a8936501",
   "lastOpenFiles": [
-    "retos-bandit/Level 26 -> 27.md",
-    "retos-bandit/Level 27 -> 28.md",
-    "retos-bandit/Level 25 -> 26.md",
+    "picoCTF/dont-use-client-side.md",
+    "picoCTF/Insp3ct0r.md",
+    "picoCTF/logon.md",
+    "picoCTF/picobrowser.md",
+    "picoCTF/Plantilla picoCTF.md",
+    "picoCTF/Client-side-again.md",
+    "picoCTF/where are the robots.md",
     "README.md",
     "retos-bandit/plantilla.md",
+    "picoCTF",
+    "retos-bandit/Level 27 -> 28.md",
+    "retos-bandit/Level 26 -> 27.md",
+    "retos-bandit/Level 25 -> 26.md",
     "retos-bandit/Level 24 -> 25.md",
     "retos-bandit/Level 23 -> 24.md",
     "retos-bandit/Level 22 -> 23.md",
