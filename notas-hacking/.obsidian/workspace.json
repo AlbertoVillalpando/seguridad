@@ -8,115 +8,103 @@
         "type": "tabs",
         "children": [
           {
-            "id": "e64d1a154901dd5a",
+            "id": "e8f87bed1034ab17",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "picoCTF/dont-use-client-side.md",
+                "file": "Plantilla picoCTF.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "32e7fd64e658e6df",
+            "id": "b30b011bbc838e60",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "picoCTF/picobrowser.md",
+                "file": "Primer Examen/Pico CTF 2019/plumbing.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "97d861ad0418f924",
+            "id": "e32c7e4bc63bccef",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "picoCTF/Client-side-again.md",
+                "file": "Primer Examen/Pico CTF 2021/Obedient Cat.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "dbcd032d114d3649",
+            "id": "2ba2324e108d28a8",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "picoCTF/dont-use-client-side.md",
+                "file": "Primer Examen/Pico CTF 2021/Wave a flag.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "9138ea9ab05c29fd",
+            "id": "4ce138bbf67e0334",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "picoCTF/Client-side-again.md",
+                "file": "Primer Examen/Pico CTF 2021/Nice netcat....md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "dff289bbae6bb0c6",
+            "id": "80fd32b932e710c0",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "picoCTF/logon.md",
+                "file": "Primer Examen/Pico CTF 2021/Static ain't always noise.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "3f77c11b9261721d",
+            "id": "dbcd5e0de404bb2c",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "picoCTF/logon.md",
+                "file": "Primer Examen/Pico CTF 2021/Tab, Tab, Attack.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "2a4294433372f899",
+            "id": "1c13c822a202ab1d",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "picoCTF/picobrowser.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "f37149e4a8936501",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "picoCTF/Client-side-again.md",
+                "file": "Primer Examen/Pico CTF 2021/Magikarp Ground MIssion.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 8
+        "currentTab": 7
       }
     ],
     "direction": "vertical"
@@ -182,7 +170,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "picoCTF/Client-side-again.md",
+                "file": "Primer Examen/Pico CTF 2021/Magikarp Ground MIssion.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -199,7 +187,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "picoCTF/Client-side-again.md",
+                "file": "Primer Examen/Pico CTF 2021/Magikarp Ground MIssion.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -222,7 +210,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "picoCTF/Client-side-again.md"
+                "file": "Primer Examen/Pico CTF 2021/Magikarp Ground MIssion.md"
               }
             }
           }
@@ -243,32 +231,37 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "f37149e4a8936501",
+  "active": "b3be3b5e13c10d9e",
   "lastOpenFiles": [
+    "Plantilla picoCTF.md",
+    "Primer Examen/Pico CTF 2021/Magikarp Ground MIssion.md",
+    "Primer Examen/Pico CTF 2021/Tab, Tab, Attack.md",
+    "Primer Examen/Pico CTF 2021/Static ain't always noise.md",
+    "Primer Examen/Pico CTF 2021/Nice netcat....md",
+    "Primer Examen/Pico CTF 2021/Wave a flag.md",
+    "Primer Examen/Pico CTF 2021/Obedient Cat.md",
+    "Primer Examen/Pico CTF 2019/plumbing.md",
+    "Primer Examen/Pico CTF 2021",
+    "Primer Examen/Pico CTF 2019/2Warm.md",
+    "Primer Examen/Pico CTF 2019/Based.md",
+    "Primer Examen/Pico CTF 2019/Bases.md",
+    "Primer Examen/Pico CTF 2019/First Grep.md",
+    "Primer Examen/Pico CTF 2019/Lets Warm Up.md",
+    "Primer Examen/Pico CTF 2019/strings it.md",
+    "Primer Examen/Pico CTF 2019/Warmed Up.md",
+    "Primer Examen/Pico CTF 2019/what's a net cat?.md",
+    "Primer Examen/Pico CTF 2019",
+    "README.md",
+    "picoCTF/picobrowser.md",
+    "Primer Examen",
+    "picoCTF/Client-side-again.md",
     "picoCTF/dont-use-client-side.md",
     "picoCTF/Insp3ct0r.md",
     "picoCTF/logon.md",
-    "picoCTF/picobrowser.md",
-    "picoCTF/Plantilla picoCTF.md",
-    "picoCTF/Client-side-again.md",
     "picoCTF/where are the robots.md",
-    "README.md",
     "retos-bandit/plantilla.md",
     "picoCTF",
     "retos-bandit/Level 27 -> 28.md",
-    "retos-bandit/Level 26 -> 27.md",
-    "retos-bandit/Level 25 -> 26.md",
-    "retos-bandit/Level 24 -> 25.md",
-    "retos-bandit/Level 23 -> 24.md",
-    "retos-bandit/Level 22 -> 23.md",
-    "retos-bandit/Level 21 -> 22.md",
-    "retos-bandit/Level 20 -> 21.md",
-    "retos-bandit/Level 19 -> 20.md",
-    "retos-bandit/Level 18 -> 19.md",
-    "retos-bandit/Level 17 -> 18.md",
-    "retos-bandit/Level 16 -> 17.md",
-    "retos-bandit/Level 15 -> 16.md",
-    "retos-bandit/Level 10 -> 11.md",
-    "retos-bandit/Level 9 -> 10.md"
+    "retos-bandit/Level 26 -> 27.md"
   ]
 }
