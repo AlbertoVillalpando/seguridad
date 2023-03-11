@@ -12,7 +12,7 @@ Ripping strings from binary with file offsets...
 Any strings found in static have been written to static.ltdis.strings.txt with file offset
 alberto@Nova:~/Descargas$ ls
 ltdis.sh                                                                                         static                                                                                                              static.ltdis.strings.txt
- file                                                                                                                             static.ltdis.x86_64.txt                 
+file                                                                                                                             static.ltdis.x86_64.txt                 
 alberto@Nova:~/Descargas$ cat static.ltdis.strings.txt | grep picoCTF
    1020 picoCTF{d15a5m_t34s3r_6f8c8200}
 alberto@Nova:~/Descargas$ 
