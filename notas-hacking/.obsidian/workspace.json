@@ -11,28 +11,96 @@
             "id": "f4f98c99836a3339",
             "type": "leaf",
             "state": {
+              "type": "empty",
+              "state": {}
+            }
+          },
+          {
+            "id": "9453ebae1f8f4530",
+            "type": "leaf",
+            "state": {
               "type": "markdown",
               "state": {
-                "file": "PcapPoisoning.md",
+                "file": "picoCTF/Crypto/The Numbers.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "785a9613da564cd1",
+            "id": "e2ff18931707c01f",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "PcapPoisoning.md",
+                "file": "picoCTF/Crypto/Easy 1.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "87ca8db3793c9fec",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "picoCTF/Crypto/caesar.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "9b593af6a43275e7",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "picoCTF/Crypto/la cifra de.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "0aea6ff444486ca6",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Plantilla picoCTF.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "4a8de769d6ff69ff",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "picoCTF/Crypto/13.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "fa1a330af2abf214",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "picoCTF/Crypto/waves over lamnda.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 7
       }
     ],
     "direction": "vertical"
@@ -98,7 +166,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "PcapPoisoning.md",
+                "file": "picoCTF/Crypto/waves over lamnda.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +183,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "PcapPoisoning.md",
+                "file": "picoCTF/Crypto/waves over lamnda.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +206,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "PcapPoisoning.md"
+                "file": "picoCTF/Crypto/waves over lamnda.md"
               }
             }
           }
@@ -159,16 +227,23 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "785a9613da564cd1",
+  "active": "b3be3b5e13c10d9e",
   "lastOpenFiles": [
-    "Safe Opener 2.md",
-    "PcapPoisoning.md",
     "Plantilla picoCTF.md",
+    "picoCTF/Crypto/waves over lamnda.md",
+    "picoCTF/Crypto/13.md",
+    "picoCTF/Crypto/Easy 1.md",
+    "picoCTF/Crypto/caesar.md",
+    "picoCTF/Crypto/The Numbers.md",
+    "picoCTF/Crypto/la cifra de.md",
+    "picoCTF/Crypto",
+    "PcapPoisoning.md",
+    "Cookies.md",
+    "Safe Opener 2.md",
     "picoCTF/Scavenger Hunt.md",
     "picoCTF/where are the robots.md",
     "picoCTF/GET aHEAD.md",
     "README.md",
-    "Cookies.md",
     "picoCTF/foresinc/shark on wire 1.md",
     "picoCTF/foresinc/So Meta.md",
     "picoCTF/foresinc/Glory of the Garden.md",
@@ -177,7 +252,6 @@
     "picoCTF/foresinc/someta/pico_img.png",
     "picoCTF/foresinc/gloryofthegarden/garden.jpg",
     "picoCTF/foresinc/extensions/flag.png",
-    "Untitled",
     "picoCTF/seguridad.zip",
     "picoCTF/Irish-Name-Repo 1.md",
     "picoCTF/JaWT Scratchpad.md",
@@ -186,12 +260,6 @@
     "Primer Examen/Beginner PicoMIni 2022/Codebook.md",
     "Primer Examen/Beginner PicoMIni 2022/convertme.py.md",
     "Primer Examen/Beginner PicoMIni 2022/rumne.py.md",
-    "Primer Examen/Pico CTF 2021/Static ain't always noise.md",
-    "Primer Examen/Beginner PicoMIni 2022/PW Crack 2.md",
-    "Primer Examen/Beginner PicoMIni 2022/PW Crack 1.md",
-    "Primer Examen/Beginner PicoMIni 2022/Glitch Cat.md",
-    "Primer Examen/Beginner PicoMIni 2022/fixme2.py.md",
-    "Primer Examen/Pico CTF 2021/Nice netcat....md",
     "Primer Examen/Beginner PicoMIni 2022",
     "Primer Examen/Pico CTF 2021",
     "Primer Examen/Pico CTF 2019",
