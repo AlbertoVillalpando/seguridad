@@ -4,83 +4,47 @@
     "type": "split",
     "children": [
       {
-        "id": "243a8476481e2a11",
+        "id": "43a38f272488ab36",
         "type": "tabs",
         "children": [
           {
-            "id": "de3f7b8429205714",
+            "id": "f0616836be5534c8",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Segundo Examen Parcial/information.md",
+                "file": "Plantilla picoCTF.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "6130d42c78d893ad",
+            "id": "f30eb1f651a0ac24",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Segundo Examen Parcial/Enhance!.md",
+                "file": "picoCTF/Reversing/GDB Test Drive.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "2d50ee23832ef369",
+            "id": "a8b91ea4c3892eb4",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "README.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "abedd122cf3ea712",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Segundo Examen Parcial/Packets Primer.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "05a93e405d075b6e",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Segundo Examen Parcial/St3g0.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "777b81efdf51aeeb",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Segundo Examen Parcial/SQLiLite.md",
+                "file": "picoCTF/Reversing/Safe Opener 2.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 5
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -125,12 +89,20 @@
               "type": "starred",
               "state": {}
             }
+          },
+          {
+            "id": "0465de1c30225ce2",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
           }
         ]
       }
     ],
     "direction": "horizontal",
-    "width": 260.5
+    "width": 200
   },
   "right": {
     "id": "d35b96d02f9190db",
@@ -146,7 +118,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Segundo Examen Parcial/SQLiLite.md",
+                "file": "picoCTF/Reversing/Safe Opener 2.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -163,7 +135,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Segundo Examen Parcial/SQLiLite.md",
+                "file": "picoCTF/Reversing/Safe Opener 2.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -186,7 +158,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Segundo Examen Parcial/SQLiLite.md"
+                "file": "picoCTF/Reversing/Safe Opener 2.md"
               }
             }
           }
@@ -209,34 +181,34 @@
   },
   "active": "b3be3b5e13c10d9e",
   "lastOpenFiles": [
+    "picoCTF/PicoCTF2023/Safe Opener 2.md",
+    "picoCTF/Reversing/Safe Opener 2.md",
+    "picoCTF/Reversing/reverse_cipher.md",
+    "Plantilla picoCTF.md",
+    "picoCTF/Reversing/GDB Test Drive.md",
+    "picoCTF/Reversing/Need for Speed.md",
+    "picoCTF/Reversing",
+    "Segundo Examen Parcial/Wireshark doo dooo do doo.md",
     "Segundo Examen Parcial/St3g0.md",
     "Segundo Examen Parcial/SQLiLite.md",
-    "Untitled",
-    "Plantilla picoCTF.md",
+    "Segundo Examen Parcial/SQL Direct.md",
+    "Segundo Examen Parcial/Secrets.md",
+    "Segundo Examen Parcial/Search source.md",
     "Segundo Examen Parcial/Roboto Sans.md",
     "Segundo Examen Parcial/Redaction gone wrong.md",
-    "Segundo Examen Parcial/Packets Primer.md",
-    "README.md",
-    "Segundo Examen Parcial/Lookey here.md",
-    "Segundo Examen Parcial/Enhance!.md",
-    "Segundo Examen Parcial/information.md",
-    "Segundo Examen Parcial/Secrets.md",
-    "Segundo Examen Parcial/Wireshark doo dooo do doo.md",
-    "Segundo Examen Parcial/SQL Direct.md",
-    "Segundo Examen Parcial/Search source.md",
     "Segundo Examen Parcial/Power Cookie.md",
-    "Segundo Examen Parcial/Forbidden Paths.md",
-    "Segundo Examen Parcial/Inspect HTML.md",
+    "Segundo Examen Parcial/Packets Primer.md",
+    "Segundo Examen Parcial/Lookey here.md",
     "Segundo Examen Parcial/Local Authority.md",
+    "Segundo Examen Parcial/Inspect HTML.md",
+    "Segundo Examen Parcial/information.md",
     "Segundo Examen Parcial/Includes.md",
+    "Segundo Examen Parcial/Forbidden Paths.md",
+    "Segundo Examen Parcial/Enhance!.md",
+    "README.md",
     "Segundo Examen Parcial",
     "picoCTF/Crypto/b00tl3gRSA2.md",
     "picoCTF/Crypto/miniRSA.md",
-    "picoCTF/Crypto/la cifra de.md",
-    "picoCTF/Crypto/waves over lamnda.md",
-    "picoCTF/Crypto/13.md",
-    "picoCTF/Crypto/Easy 1.md",
-    "picoCTF/Crypto/caesar.md",
     "picoCTF/Crypto",
     "picoCTF/foresinc/someta/pico_img.png",
     "picoCTF/foresinc/gloryofthegarden/garden.jpg",
