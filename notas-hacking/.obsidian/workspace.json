@@ -4,131 +4,103 @@
     "type": "split",
     "children": [
       {
-        "id": "b794cbce4952ad3b",
+        "id": "d369de06760eb657",
         "type": "tabs",
         "children": [
           {
-            "id": "bdf6f748912890d8",
+            "id": "c4047bc03a631159",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {}
+            }
+          },
+          {
+            "id": "a517dc328ca637b0",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "retos-bandit/Level 28 -> 29.md",
+                "file": "picoCTF/Crypto/Actividad 13/ReadMyCert.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "71fa37ca1a573063",
+            "id": "68753fd6ea00ab20",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "retos-bandit/Level 29 -> 30.md",
+                "file": "picoCTF/Crypto/Actividad 13/HideToSee.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "965612db6f62e8fc",
+            "id": "063455a01f8e1c11",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "retos-bandit/Level 30 -> 31.md",
+                "file": "picoCTF/Crypto/Actividad 13/Pixelated.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "c1bfe926bfe71b6b",
+            "id": "37ae347c5b6ac4ca",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "retos-bandit/Level 31 -> 32.md",
+                "file": "picoCTF/Crypto/Actividad 13/Mind your Ps and Qs.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "f8ed39105d2cc09e",
+            "id": "9de290b685ebf1d9",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "picoCTF/foresinc/Retos forensic - parte 3/WebNet0.md",
+                "file": "picoCTF/Crypto/Actividad 13/basic-mod1.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "bf6d118590a304f2",
+            "id": "bd61849d7e5f9127",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "picoCTF/foresinc/Retos forensic - parte 3/tunn3l v1s10n.md",
+                "file": "picoCTF/Crypto/Actividad 13/Pixelated.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "32c9aeff4ffcf41d",
+            "id": "3a38e38a31797f7b",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "picoCTF/foresinc/Retos forensic - parte 3/WebNet0.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "17a77b6e0121746e",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "picoCTF/foresinc/Retos forensic - parte 3/WebNet1.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "6bb96e73cf18cbfd",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "picoCTF/foresinc/Retos forensic - parte 3/WebNet1.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "b65ae193f951a815",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "picoCTF/foresinc/Retos forensic - parte 3/Matryoshka doll.md",
+                "file": "picoCTF/Crypto/Actividad 13/ReadMyCert.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 9
+        "currentTab": 7
       }
     ],
     "direction": "vertical"
@@ -202,7 +174,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "picoCTF/foresinc/Retos forensic - parte 3/Matryoshka doll.md",
+                "file": "picoCTF/Crypto/Actividad 13/ReadMyCert.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -219,7 +191,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "picoCTF/foresinc/Retos forensic - parte 3/Matryoshka doll.md",
+                "file": "picoCTF/Crypto/Actividad 13/ReadMyCert.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -242,7 +214,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "picoCTF/foresinc/Retos forensic - parte 3/Matryoshka doll.md"
+                "file": "picoCTF/Crypto/Actividad 13/ReadMyCert.md"
               }
             }
           }
@@ -265,12 +237,18 @@
   },
   "active": "b3be3b5e13c10d9e",
   "lastOpenFiles": [
+    "picoCTF/Crypto/Actividad 13/Pixelated.md",
+    "picoCTF/Crypto/Actividad 13/Mind your Ps and Qs.md",
+    "picoCTF/Crypto/Actividad 13/HideToSee.md",
+    "picoCTF/Crypto/Actividad 13/basic-mod1.md",
+    "picoCTF/Crypto/Actividad 13",
+    "Plantilla picoCTF.md",
+    "picoCTF/Crypto/Actividad 13/ReadMyCert.md",
+    "picoCTF/foresinc/Retos forensic - parte 3/Matryoshka doll.md",
     "picoCTF/foresinc/Retos forensic - parte 3/WebNet1.md",
     "picoCTF/foresinc/Retos forensic - parte 3/WebNet0.md",
     "README.md",
     "picoCTF/foresinc/Retos forensic - parte 3",
-    "Plantilla picoCTF.md",
-    "picoCTF/foresinc/Retos forensic - parte 3/Matryoshka doll.md",
     "picoCTF/foresinc/Retos forensic - parte 3/tunn3l v1s10n.md",
     "picoCTF/foresinc/Retos forensic - parte 3/MacroHrd WeakEdge.md",
     "retos-bandit/Level 32 -> 33.md",
@@ -287,12 +265,7 @@
     "picoCTF/Binary Explotation/buffer overflow 1.md",
     "picoCTF/Binary Explotation",
     "picoCTF/Reversing/Safe Opener 2.md",
-    "picoCTF/PicoCTF2023/Safe Opener 2.md",
-    "picoCTF/Reversing/reverse_cipher.md",
-    "picoCTF/Reversing/GDB Test Drive.md",
-    "picoCTF/Reversing/Need for Speed.md",
     "picoCTF/Reversing",
-    "Segundo Examen Parcial/Wireshark doo dooo do doo.md",
     "Segundo Examen Parcial",
     "picoCTF/Crypto",
     "picoCTF/foresinc/someta/pico_img.png",
@@ -301,7 +274,6 @@
     "picoCTF/seguridad.zip",
     "Primer Examen/Beginner PicoMIni 2022",
     "Primer Examen/Pico CTF 2021",
-    "Primer Examen/Pico CTF 2019",
-    "Primer Examen"
+    "Primer Examen/Pico CTF 2019"
   ]
 }
